@@ -1,5 +1,4 @@
-# Project 3 Summary:
-**DSI-US-11 Project 3 Web APIs & NLP**
+# Project Summary
 
 # Contents:
 - [Problem Statement](#Problem-Statement)
